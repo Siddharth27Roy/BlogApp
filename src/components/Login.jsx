@@ -48,8 +48,8 @@ function Login() {
             <form onSubmit={handleSubmit(login)} className='mt-8'>
                 <div className='space-y-5'>
                     <Input
-                    label="Username: "
-                    placeholder="Enter your username"
+                    label="Email: "
+                    placeholder="Enter your Email"
                     type="email"
                     {...register("email", {
                         required: true,

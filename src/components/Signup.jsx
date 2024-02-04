@@ -56,8 +56,8 @@ function Signup() {
               })}
             />
             <Input
-              label="Username: "
-              placeholder="Enter your username"
+              label="Email: "
+              placeholder="Enter your Email"
               type="email"
               {...register("email", {
                 required: true,
