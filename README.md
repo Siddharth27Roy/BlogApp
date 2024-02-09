@@ -1,8 +1,12 @@
-# React + Vite
+# Blog App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a project made with react. A user can make an account to login to the app. A user can add post with an image and content.
 
-Currently, two official plugins are available:
+This project uses Appwrite to store user data.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Packages used: redux, react-redux, react-router-dom, react-hook-form, htm-react-parser, tinymc-react, tailwind
+
+[BlogApp Link](https://blog-app-siddharth-roys-projects.vercel.app/)
+
+
+
